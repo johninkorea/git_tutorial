@@ -4,3 +4,18 @@ def asd():
 
 def sub():
     print("asdasda")
+
+
+print("안녕핫게요")
+
+
+
+
+
+
+
+
+
+
+
+
