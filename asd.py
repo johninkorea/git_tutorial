@@ -10,7 +10,9 @@ print("안녕핫게요")
 
 
 
+def asdasdsdjkjk(fdfd):
 
+    print("fdfsdf")
 
 
 
